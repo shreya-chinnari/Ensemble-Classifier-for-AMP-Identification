@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore sensitive data
+*.xlsx
+*.csv
+
+# Ignore model files if necessary
+*.joblib
+
